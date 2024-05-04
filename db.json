@@ -1,0 +1,39 @@
+{
+  "employes": [
+    {
+      "id": 1,
+      "first_name": "Sebastian",
+      "last_name": "Lewandoski",
+      "email": "sebastian@coding.com"
+    },
+    {
+      "id": 2,
+      "first_name": "Steve",
+      "last_name": "Palmer",
+      "email": "palmer-steve@coding.com"
+    },
+    {
+      "id": 3,
+      "first_name": "Ann",
+      "last_name": "Smith",
+      "email": "smith-ann@coding.com"
+    },
+    {
+      "id": "ddc7",
+      "post": {}
+    },
+    {
+      "id": "7d73",
+      "post": {}
+    },
+    {
+      "id": "8d50",
+      "post": {
+        "id": 6,
+        "first_name": "sddfsd",
+        "last_name": "sadfsdf",
+        "email": "asdjas@asdas.xom"
+      }
+    }
+  ]
+}
